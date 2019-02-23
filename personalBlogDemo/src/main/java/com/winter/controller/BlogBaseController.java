@@ -26,6 +26,11 @@ import com.winter.service.IBlogTitleService;
 import com.winter.service.IUserMessageService;
 import com.winter.service.power.ILoginUserService;
 
+/**
+ * 
+ * @author mustb
+ *
+ */
 @Controller
 @RequestMapping("/personal_blog")
 public class BlogBaseController {
