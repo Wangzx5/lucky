@@ -27,7 +27,7 @@ import com.winter.service.IUserMessageService;
 import com.winter.service.power.ILoginUserService;
 
 /**
- * 
+ * 博客
  * @author mustb
  *
  */
